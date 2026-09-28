@@ -210,7 +210,7 @@ Create or open an n8n workspace.
 Import:
 
 ```text
-workflow/AI-Data-Analytics-Agent.json
+AI Agent Data Analytics Agent.json
 ```
 
 ### 3. Configure credentials
