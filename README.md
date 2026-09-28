@@ -295,9 +295,9 @@ This project demonstrates practical experience with:
 
 **Data Analytics | Business Analytics | Power BI**
 
-GitHub: **Nandiniwadile**
+GitHub: **https://github.com/Nandiniwadile**
 
-LinkedIn: **Nandini Wadile**
+LinkedIn: **www.linkedin.com/in/nandiniwadile**
 
 ---
 
